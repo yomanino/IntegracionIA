@@ -1,0 +1,7 @@
+{
+  "name": "EcoTrama App - Integración IA",
+  "description": "Plataforma de gestión inteligente de residuos con integración de IA para clasificación y análisis técnico.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
